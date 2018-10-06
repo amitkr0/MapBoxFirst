@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapBoxFirst</string>
+    <string name="mapbox_style_light">MapURL</string>
+    <string name="access_token">pk.eyJ1IjoiYW1pdDMzIiwiYSI6ImNqbXZ3bDdwZzA0cTUzcXBqcHcyOXluN3AifQ.cTDcvCncGYW7kL-GRh41Zg</string>
+</resources>
